@@ -4,7 +4,7 @@
 
 #include "Modules/ModuleManager.h"
 
-class FDebugLogPluginModule : public IModuleInterface
+class DEBUGLOGPLUGIN_API FDebugLogPluginModule : public IModuleInterface
 {
 public:
 

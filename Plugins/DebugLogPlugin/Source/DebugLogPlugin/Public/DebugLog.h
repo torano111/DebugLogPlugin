@@ -21,7 +21,7 @@ DECLARE_LOG_CATEGORY_EXTERN(DebugLogPlugin, Log, All);
 *	This BP Function library class provides functions to output debug logs. 
 */
 UCLASS()
-class UDebugLog : public UBlueprintFunctionLibrary
+class DEBUGLOGPLUGIN_API UDebugLog : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
 
